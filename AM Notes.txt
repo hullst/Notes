@@ -1,0 +1,6 @@
+Dynatrace AM
+###Architecture
+- UEM - JavaScript injection
+- PP - web server back
+- User action -> browser to web server
+- Agents place sensors (byte code instrumentation)
